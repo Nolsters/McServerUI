@@ -1,0 +1,15 @@
+{
+  "name": "trustedmc",
+  "version": "1.0.0",
+  "description": "Web Application for TrusedMC minecraft server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
